@@ -1,3 +1,4 @@
 # simple-fun-grammar-checker-webapp
 
-![screenshot](https://user-images.githubusercontent.com/63925819/128675951-bc84de50-8093-4885-8043-f902b017fdc2.png)
+![screenshot](https://user-images.githubusercontent.com/63925819/128676080-da0e5acf-91ce-428d-b1fe-6646fc1d5d8a.png)
+
